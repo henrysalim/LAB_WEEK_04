@@ -13,6 +13,7 @@
             android:theme="@style/Theme.LAB_WEEK_04">
         <activity
                 android:name=".MainActivity"
+                android:theme="@style/Theme.NavigationDrawer.NoActionBar"
                 android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
